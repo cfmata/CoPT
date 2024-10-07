@@ -41,7 +41,12 @@ To train MIC with CoPT on the benchmarks reported in the paper you can use the f
 
 # Checkpoints
 
-Coming Soon...
+Download the trained CoPT models from the main experiments from Github releases:
+
+* [GTA to Cityscapes](https://github.com/cfmata/CoPT/releases/download/v1.0/copt_gta2cs.pth)
+* [Synthia to Cityscapes](https://github.com/cfmata/CoPT/releases/download/v1.0/copt_synthia2cs.pth)
+* [Cityscapes to ACDC](https://github.com/cfmata/CoPT/releases/download/v1.0/copt_cs2acdc.pth)
+* [Cityscapes to DarkZurich](https://github.com/cfmata/CoPT/releases/download/v1.0/copt_cs2dz.pth)
 
 # Acknowledgements
 
