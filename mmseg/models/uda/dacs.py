@@ -1,6 +1,6 @@
 # Obtained from https://github.com/lhoyer/MIC
 # Modifications:
-# -
+# - Add domain-generalized text (CoPT) loss
 # ---------------------------------------------------------------
 # Obtained from: https://github.com/lhoyer/DAFormer
 # Modifications:

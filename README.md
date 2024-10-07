@@ -29,7 +29,7 @@ pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable
 pip install mmcv-full==1.3.7
 ```
 CoPT is built on top of [MIC](https://github.com/lhoyer/MIC/tree/master/seg). 
-That page has instructions on how to set up the datasets and train a baseline MIC model. Please make sure you update the paths to your datses in the config files in the configs folder.
+That page has instructions on how to set up the datasets and train a baseline MIC model. Please make sure you update the paths to your datsets in the config files in the configs folder.
 
 # Experiments
 
