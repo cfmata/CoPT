@@ -520,7 +520,7 @@ class DACS(UDADecorator):
         # Domain-generalized text embedding distance
         if self.dgtext:
             dgtext_loss, dgtext_log = self.calc_dgtext_dist(gt_semantic_seg,
-                                                      src_feat, self.local_iter)
+                                                      src_feat)
             dgtext_loss.backward()
             log_vars.update(add_prefix(dgtext_log, 'src'))
             if self.print_grad_magnitude:
